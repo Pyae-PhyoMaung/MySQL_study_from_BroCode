@@ -1,5 +1,3 @@
-# MySQL_study_from_BroCode
-
 # SQL Notes
 ================
 
